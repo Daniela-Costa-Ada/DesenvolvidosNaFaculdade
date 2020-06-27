@@ -1,0 +1,7 @@
+C:\Users\Dani\Desktop\GestãoDaBiblioteca\GestãoDaBiblioteca\obj\Debug\GestãoDaBiblioteca.csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\GestãoDaBiblioteca\GestãoDaBiblioteca\obj\Debug\GestãoDaBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\GestãoDaBiblioteca\GestãoDaBiblioteca\bin\Debug\GestãoDaBiblioteca.exe.config
+C:\Users\Dani\Desktop\GestãoDaBiblioteca\GestãoDaBiblioteca\bin\Debug\GestãoDaBiblioteca.exe
+C:\Users\Dani\Desktop\GestãoDaBiblioteca\GestãoDaBiblioteca\bin\Debug\GestãoDaBiblioteca.pdb
+C:\Users\Dani\Desktop\GestãoDaBiblioteca\GestãoDaBiblioteca\obj\Debug\GestãoDaBiblioteca.exe
+C:\Users\Dani\Desktop\GestãoDaBiblioteca\GestãoDaBiblioteca\obj\Debug\GestãoDaBiblioteca.pdb
