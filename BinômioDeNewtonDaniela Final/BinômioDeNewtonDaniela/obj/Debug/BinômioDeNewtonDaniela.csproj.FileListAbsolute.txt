@@ -1,0 +1,12 @@
+C:\Users\PEREIRA\Desktop\Koi\Laboratorio\Todos os projestos e soluções c sharp\BinômioDeNewtonDaniela\BinômioDeNewtonDaniela\bin\Debug\BinômioDeNewtonDaniela.exe
+C:\Users\PEREIRA\Desktop\Koi\Laboratorio\Todos os projestos e soluções c sharp\BinômioDeNewtonDaniela\BinômioDeNewtonDaniela\bin\Debug\BinômioDeNewtonDaniela.pdb
+C:\Users\PEREIRA\Desktop\Koi\Laboratorio\Todos os projestos e soluções c sharp\BinômioDeNewtonDaniela\BinômioDeNewtonDaniela\obj\Debug\BinômioDeNewtonDaniela.csprojResolveAssemblyReference.cache
+C:\Users\PEREIRA\Desktop\Koi\Laboratorio\Todos os projestos e soluções c sharp\BinômioDeNewtonDaniela\BinômioDeNewtonDaniela\obj\Debug\BinômioDeNewtonDaniela.csproj.CoreCompileInputs.cache
+C:\Users\PEREIRA\Desktop\Koi\Laboratorio\Todos os projestos e soluções c sharp\BinômioDeNewtonDaniela\BinômioDeNewtonDaniela\obj\Debug\BinômioDeNewtonDaniela.exe
+C:\Users\PEREIRA\Desktop\Koi\Laboratorio\Todos os projestos e soluções c sharp\BinômioDeNewtonDaniela\BinômioDeNewtonDaniela\obj\Debug\BinômioDeNewtonDaniela.pdb
+C:\Users\PEREIRA\Desktop\Koi\Laboratorio\Todos os projestos e soluções c sharp\BinômioDeNewtonDaniela - Copia\BinômioDeNewtonDaniela\obj\Debug\BinômioDeNewtonDaniela.csprojResolveAssemblyReference.cache
+C:\Users\PEREIRA\Desktop\Koi\Laboratorio\Todos os projestos e soluções c sharp\BinômioDeNewtonDaniela - Copia\BinômioDeNewtonDaniela\obj\Debug\BinômioDeNewtonDaniela.csproj.CoreCompileInputs.cache
+C:\Users\PEREIRA\Desktop\Koi\Laboratorio\Todos os projestos e soluções c sharp\BinômioDeNewtonDaniela - Copia\BinômioDeNewtonDaniela\obj\Debug\BinômioDeNewtonDaniela.exe
+C:\Users\PEREIRA\Desktop\Koi\Laboratorio\Todos os projestos e soluções c sharp\BinômioDeNewtonDaniela - Copia\BinômioDeNewtonDaniela\obj\Debug\BinômioDeNewtonDaniela.pdb
+C:\Users\PEREIRA\Desktop\Koi\Laboratorio\Todos os projestos e soluções c sharp\BinômioDeNewtonDaniela - Copia\BinômioDeNewtonDaniela\bin\Debug\BinômioDeNewtonDaniela.exe
+C:\Users\PEREIRA\Desktop\Koi\Laboratorio\Todos os projestos e soluções c sharp\BinômioDeNewtonDaniela - Copia\BinômioDeNewtonDaniela\bin\Debug\BinômioDeNewtonDaniela.pdb
