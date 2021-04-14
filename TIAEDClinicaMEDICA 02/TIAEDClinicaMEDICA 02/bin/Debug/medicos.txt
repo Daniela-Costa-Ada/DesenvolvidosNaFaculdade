@@ -1,0 +1,42 @@
+10480;Caio Repetto;4
+10984;Daniela Costa;2
+11183;David Diniz;4
+11611;Felipe Almeida;4
+11894;Felipe Lino;2
+12216;Gabriel Araujo;3
+12305;Jessica Dutra;3
+12462;Arthur Santos;3
+12490;Brener Miranda;4
+12786;Breno de Assis;3
+13180;Bruna França;3
+13401;João Pedro Parreiras;2
+13893;Lucas Gabriel da Silva;4
+13934;Lucas Stehling;2
+14109;Luiz Fernando Silva;2
+14517;Marcus Vinícius Quintas;1
+14822;Guilherme Teófilo;1
+15040;Mateus Barbosa ;1
+15287;Matheus Campos;3
+15332;Matheus Pereira;4
+15592;Rafael Rezende;2
+15794;Reginaldo Guedes;3
+15818;Isabela Souza;4
+15892;Isadora Silvino;4
+16062;Italo Rocha;2
+16175;Tibério da Silva;4
+16319;Tulio Ferreira;1
+16634;Wanessa Luisa Costa;1
+16880;Michael Sanguinete;1
+16972;Norton Cândido;2
+17369;Alef Martins;1
+17652;Alexsander Santiago;4
+18118;Andre Moreira;1
+18492;Anna Carolina Marinho;2
+18530;Bruna Moreira;4
+18950;João Pedro Marinho;3
+19426;Lucas Gabriel Costa;4
+19617;Lucas Silva;2
+20099;Luiz Fernando Ferreira;4
+20133;Wanessa Luisa Santiago;3
+20594;Michael Rocha;1
+21058;Reginaldo Silvino;1
